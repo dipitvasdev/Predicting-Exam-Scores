@@ -1,5 +1,5 @@
-**HARDWORK PAYS OFF** || **GOOGLE COLAB**
-https://colab.research.google.com/drive/1zbZd3kfwx9Hjl4MiimK0igIYW0nqporh
+# HardWork Pays Off
+**GOOGLE COLAB:- https://colab.research.google.com/drive/1zbZd3kfwx9Hjl4MiimK0igIYW0nqporh**
 
 Challenge: Predict Exam Scores 
 
